@@ -113,3 +113,6 @@ a {
   color: #2699fb;
   cursor: pointer;
 }
+.inpt::placeholder {
+  color: rgb(216, 213, 213);
+}
